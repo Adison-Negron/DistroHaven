@@ -6,7 +6,7 @@ import os
 
 
 #Resolution
-default_res = "1500x700"
+default_res = "1500x800"
 
 
 #Default setup
