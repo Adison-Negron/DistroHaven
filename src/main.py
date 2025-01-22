@@ -1,4 +1,5 @@
-from modules import windowmanager
+#import windowmanager
+import windowmanager
 import PIL
 import json
 import os
